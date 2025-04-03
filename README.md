@@ -1,6 +1,6 @@
 # 📌 Description  
-**Image Classifier Projects**  
-This is a Jupyter Notebook project implements a **CNN Algorithm** to classify images. Currently uses Rice Leaf Disease and Brain MRI datasets.   
+**RFM Analysis Projects**  
+This is a Jupyter Notebook project implements an **RFM Analysis** on real transactional dataset. Currently uses Online Retail dataset.  
 
 # 🚀 How to Run  
 
